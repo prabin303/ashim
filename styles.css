@@ -64,7 +64,7 @@ body {
 
 .happy-birthday {
   font-family: cursive, sans-serif;
-  font-size: 8rem;
+  font-size: 16px;
   color: red;
   text-align: center;
   z-index: 100;
