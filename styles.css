@@ -76,6 +76,8 @@ body {
   transform: translateX(-50%); /* Correct centering */
 }
 
+
+
 .happy-birthday span {
   opacity: 0; /* Initially hidden */
   animation: fadeIn 2s ease-in-out forwards;
@@ -86,7 +88,7 @@ body {
 }
 
 .birthday {
-  animation-delay: 2s; /* Birthday appears after 2 seconds */
+  animation-delay: 2s; /* Birthday appears after 2 seconds*/
 }
 
 .mayalu {
